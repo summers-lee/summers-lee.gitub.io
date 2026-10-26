@@ -22,7 +22,7 @@ My [Professional Self-Assessment](about.md) is the best introduction to this por
 
 I reviewed all three original artifacts in a recorded walkthrough, using a checklist built on SmartBear and OWASP guidance. The review covers functionality and correctness, security, and maintainability, and it identifies the weaknesses that each enhancement then fixes.
 
-- **Code review video:** [Watch on YouTube]((https://youtu.be/Frq1Z9r_CVQ)) *(about 18 minutes)*
+- **Code review video:** [Watch on YouTube](https://youtu.be/Frq1Z9r_CVQ) *(about 18 minutes)*
 - **Review script:** [Script_Code_Review.docx](docs/Script_Code_Review.docx)
 - **Code review approach and benefits:** [Code_Review_Benefits.docx](docs/Code_Review_Benefits.docx)
 
@@ -32,9 +32,9 @@ I reviewed all three original artifacts in a recorded walkthrough, using a check
 
 | Category | Course | Original Artifact | Enhanced Artifact | Narrative |
 | --- | --- | --- | --- | --- |
-| Software Design and Engineering | CS 320 | [Original](software-design-engineering/original/) | [Enhanced](software-design-engineering/enhanced/) | [Narrative](software-design-engineering/narrative.md) |
-| Algorithms and Data Structures | CS 340 | [Original](algorithms-data-structures/original/) | [Enhanced](algorithms-data-structures/enhanced/) | [Narrative](algorithms-data-structures/narrative.md) |
-| Databases | DAD 220 | [Original](databases/original/) | [Enhanced](databases/enhanced/) | [Narrative](databases/narrative.md) |
+| Software Design and Engineering | CS 320 | [Original](https://github.com/summers-lee/summers-lee.gitub.io/tree/main/software-design-engineering/original) | [Enhanced](https://github.com/summers-lee/summers-lee.gitub.io/tree/main/software-design-engineering/enhanced) | [Narrative](software-design-engineering/narrative.md) |
+| Algorithms and Data Structures | CS 340 | [Original](https://github.com/summers-lee/summers-lee.gitub.io/tree/main/algorithms-data-structures/original) | [Enhanced](https://github.com/summers-lee/summers-lee.gitub.io/tree/main/algorithms-data-structures/enhanced) | [Narrative](algorithms-data-structures/narrative.md) |
+| Databases | DAD 220 | [Original](https://github.com/summers-lee/summers-lee.gitub.io/tree/main/databases/original) | [Enhanced](https://github.com/summers-lee/summers-lee.gitub.io/tree/main/databases/enhanced) | [Narrative](databases/narrative.md) |
 
 ### 1. Software Design and Engineering: Task Manager (CS 320, Java)
 
@@ -106,6 +106,6 @@ I reviewed all three original artifacts in a recorded walkthrough, using a check
 
 ## Contact
 
-- **Email:** [summers.aaron.lee@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/aaron-summers-643725216]
+- **Email:** [summers.aaron.lee@gmail.com](mailto:summers.aaron.lee@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aaron-summers-643725216](https://www.linkedin.com/in/aaron-summers-643725216/)
 - **GitHub:** [github.com/summers-lee](https://github.com/summers-lee)
