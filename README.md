@@ -22,7 +22,7 @@ My [Professional Self-Assessment](about.md) is the best introduction to this por
 
 I reviewed all three original artifacts in a recorded walkthrough, using a checklist built on SmartBear and OWASP guidance. The review covers functionality and correctness, security, and maintainability, and it identifies the weaknesses that each enhancement then fixes.
 
-- **Code review video:** [Watch on YouTube](https://REPLACE-WITH-YOUR-VIDEO-LINK) *(about 15 minutes)*
+- **Code review video:** [Watch on YouTube]((https://youtu.be/Frq1Z9r_CVQ)) *(about 15 minutes)*
 - **Review script:** [Script_Code_Review.docx](docs/Script_Code_Review.docx)
 - **Code review approach and benefits:** [Code_Review_Benefits.docx](docs/Code_Review_Benefits.docx)
 
