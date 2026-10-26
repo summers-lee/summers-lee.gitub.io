@@ -1,3 +1,7 @@
+---
+layout: default
+title: Professional Self-Assessment
+---
 # About Me: Professional Self-Assessment
 
 **Aaron Summers · B.S. Computer Science, Southern New Hampshire University**
