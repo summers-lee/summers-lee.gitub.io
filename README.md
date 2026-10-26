@@ -1,3 +1,7 @@
+---
+layout: default
+title: ePortfolio
+---
 # Aaron Summers | Computer Science ePortfolio
 
 **CS 499 Capstone · Southern New Hampshire University · B.S. Computer Science**
