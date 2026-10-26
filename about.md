@@ -16,7 +16,7 @@ Each artifact comes from a different stage of my coursework, and I returned to e
 
 ## How I Meet the Five Program Outcomes
 
-1. **Collaboration.** The code review process I followed is built for working with other developers: a checklist, small focused reviews and feedback that explains the issue, why it matters and how to fix it. I learned from SmartBear and OWASP guidance that review is most valuable when it is continuous and shares knowledge across a team. **[Add a specific example of working with a team or reviewer here.]**
+1. **Collaboration.** The code review process I followed is built for working with other developers: a checklist, small focused reviews and feedback that explains the issue, why it matters and how to fix it. I learned from SmartBear and OWASP guidance that review is most valuable when it is continuous and shares knowledge across a team. 
 2. **Communication.** I explained my findings in a recorded code review for a technical audience, and I wrote a narrative for each artifact. My QA work means I routinely write findings that other people need to act on.
 3. **Algorithmic problem solving.** The Grazioso enhancement is the clearest case: I designed the scoring algorithm, justified the heap, analyzed its cost and measured the result.
 4. **Well-founded techniques and tools.** I used interfaces, dependency injection, repositories, normalization, views, stored procedures and unit testing, which are standard industry practice and not one-off tricks.
